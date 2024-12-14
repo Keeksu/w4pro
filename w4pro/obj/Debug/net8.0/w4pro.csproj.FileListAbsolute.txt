@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\bin\Debug\net8.0\w4pro.exe
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\bin\Debug\net8.0\w4pro.deps.json
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\bin\Debug\net8.0\w4pro.runtimeconfig.json
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\bin\Debug\net8.0\w4pro.dll
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\bin\Debug\net8.0\w4pro.pdb
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\obj\Debug\net8.0\w4pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\obj\Debug\net8.0\w4pro.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\obj\Debug\net8.0\w4pro.AssemblyInfo.cs
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\obj\Debug\net8.0\w4pro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\obj\Debug\net8.0\w4pro.dll
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\obj\Debug\net8.0\refint\w4pro.dll
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\obj\Debug\net8.0\w4pro.pdb
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\obj\Debug\net8.0\w4pro.genruntimeconfig.cache
+C:\Users\User\Desktop\RKE132 progre\w4pro\w4pro\w4pro\obj\Debug\net8.0\ref\w4pro.dll
